@@ -18,5 +18,9 @@ hasAnyRole
 hasRole
 ```
 
+## Setting up the database
+Before you can use database functionality you've to setup your database credentials. They'll be configured in the .env file. There is a .env.example file you can use as a blueprint.
+
 ## Additional notes
-This project is using [fontawesome pro icons](https://fontawesome.com/pro). The use of fontawesome pro requires a paid license. For this reason, fontawesome pro is <u>not</u> part of this project. There is also a free fontawesome available. 
+This project is using [fontawesome pro icons](https://fontawesome.com/pro). The use of fontawesome pro requires a paid license. For this reason, fontawesome pro is <u>not</u> part of this project. There is also a free fontawesome available.
+ 
