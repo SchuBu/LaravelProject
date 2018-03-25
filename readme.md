@@ -18,6 +18,9 @@ hasAnyRole
 hasRole
 ```
 
+## Additional notes
+This project is using [fontawesome pro icons](https://fontawesome.com/pro). The use of fontawesome pro requires a paid license. For this reason, fontawesome is <u>not</u> part of this project.
+
 Now the official readme.md content of laravel provided by the project. 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
