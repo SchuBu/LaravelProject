@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,QAAS;EACP,QAAQ,EAAE,SAAS;EACnB,IAAI,EAAE,SAAS",
+"sources": ["appStyle.scss"],
+"names": [],
+"file": "appStyle.css"
+}
